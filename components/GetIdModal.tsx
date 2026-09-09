@@ -27,7 +27,7 @@ export default function GetIdModal({ isOpen, onClose }: GetIdModalProps) {
     const text = encodeURIComponent(
       `Hello All Panel Exch Official, I want to create a new ${formData.category || 'Exchange ID'}. My name is ${formData.name || 'Player'}. Please provide verified ID and account access details.`
     );
-    window.open(`https://wa.me/919999999999?text=${text}`, '_blank');
+    window.open(`https://wa.me/91xxxxxxxxxx?text=${text}`, '_blank');
   };
 
   return (

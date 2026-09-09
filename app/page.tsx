@@ -112,7 +112,7 @@ export default function HomePage() {
 
       {/* Desktop Floating WhatsApp Quick Button */}
       <a
-        href="https://wa.me/919999999999?text=Hello%20All%20Panel%20Exch,%20I%20want%20to%20get%20my%20All%20Panel%20ID.%20Please%20help%20me."
+        href="https://wa.me/91xxxxxxxxxx?text=Hello%20All%20Panel%20Exch,%20I%20want%20to%20get%20my%20All%20Panel%20ID.%20Please%20help%20me."
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 hidden sm:flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition hover:scale-110 hover:shadow-xl"
@@ -126,7 +126,7 @@ export default function HomePage() {
       {/* Mobile Floating Sticky CTA Bottom Bar */}
       <div className="fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-[#0F1622]/95 border-t border-amber-500/30 p-2.5 backdrop-blur-lg flex items-center justify-between gap-2 shadow-2xl">
         <a
-          href="https://wa.me/919999999999?text=Hello%20All%20Panel%20Exch,%20I%20want%20instant%20support"
+          href="https://wa.me/91xxxxxxxxxx?text=Hello%20All%20Panel%20Exch,%20I%20want%20instant%20support"
           target="_blank"
           rel="noopener noreferrer"
           className="flex-1 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 font-bold text-xs text-white flex items-center justify-center gap-1.5 shadow-lg"

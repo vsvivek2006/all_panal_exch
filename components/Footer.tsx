@@ -15,7 +15,7 @@ export default function Footer({ onOpenGetId }: FooterProps) {
           {/* Col 1: Brand Info */}
           <div>
             <Link href="/" className="mb-4 flex items-center gap-2.5 text-decoration-none group">
-              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-amber-400 via-yellow-400 to-amber-600 flex items-center justify-center font-black text-black text-lg shadow-md group-hover:scale-105 transition-transform">
+              <div className="hidden sm:flex w-9 h-9 rounded-xl bg-gradient-to-br from-amber-400 via-yellow-400 to-amber-600 items-center justify-center font-black text-black text-lg shadow-md group-hover:scale-105 transition-transform">
                 AP
               </div>
               <div className="flex flex-col">
@@ -120,7 +120,7 @@ export default function Footer({ onOpenGetId }: FooterProps) {
               </li>
               <li>
                 <a
-                  href="https://wa.me/919999999999?text=Hello%20All%20Panel%20Exch,%20I%20need%20assistance"
+                  href="https://wa.me/91xxxxxxxxxx?text=Hello%20All%20Panel%20Exch,%20I%20need%20assistance"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-[#facc15] transition-colors"

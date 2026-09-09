@@ -11,7 +11,7 @@ export default function JsonLd() {
     "description": "India's premier sports exchange and cricket ID platform. Fast payouts, 24/7 dedicated customer care, and verified user accounts.",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+91-99999-99999",
+      "telephone": "+91-xxxxxxxxxx",
       "contactType": "Customer Service",
       "availableLanguage": ["English", "Hindi"],
       "areaServed": "IN"

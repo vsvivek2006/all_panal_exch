@@ -44,7 +44,7 @@ export default function Navbar({ onOpenGetId }: NavbarProps) {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8">
         {/* Brand Logo */}
         <Link href="/" className="flex items-center gap-2.5 text-decoration-none shrink-0 group">
-          <div className="w-9 h-9 sm:w-11 sm:h-11 rounded-xl bg-gradient-to-br from-amber-400 via-yellow-400 to-amber-600 flex items-center justify-center font-black text-black text-lg sm:text-xl shadow-lg group-hover:scale-105 transition-transform">
+          <div className="hidden sm:flex w-9 h-9 sm:w-11 sm:h-11 rounded-xl bg-gradient-to-br from-amber-400 via-yellow-400 to-amber-600 items-center justify-center font-black text-black text-lg sm:text-xl shadow-lg group-hover:scale-105 transition-transform">
             AP
           </div>
           <div className="flex flex-col">
